@@ -1,7 +1,7 @@
 export default function Faq() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="relative flex place-items-center">
+    <main className="flex flex-col items-center justify-between p-24">
+      <div className="mb-32 relative flex place-items-center">
         <h1 className="relative text-5xl font-bold tracking-tight dark:text-slate-800">
           FAQ
         </h1>
